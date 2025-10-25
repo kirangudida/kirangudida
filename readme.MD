@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kiran-g-05977438/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@kiran.gudida)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:kiran.gudida@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-kiran.gudida@gmail.com-red?logo=gmail&style=flat)](mailto:kiran.gudida@gmail.com)
 
 ---
 
