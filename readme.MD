@@ -26,6 +26,7 @@ My focus is on scalability, observability, and security across AWS and Google cl
 ### 🧰 Tech Stack
 
 - **Cloud**: AWS, Google Cloud  
+- **Middleware**: MQ, Jboss, WebSphere, WebLogic, Nginx, Apache
 - **OS**: Linux, Windows
 - **CI/CD**: GitHub Actions, Jenkins  
 - **SCM**: GitHub, Bitbucket  
