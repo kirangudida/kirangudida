@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Kiran Gudida
 
 ### Sr. Infra DevOps Engineer @ Bank of America 
-🚀 Middleware | DevOps • Terraform • Cloud Engineer | AWS & GCP | CI/CD | SRE 
+🚀 Middleware | DevOps • Terraform • Cloud Engineer | Kubernetes| AWS & GCP | CI/CD | SRE 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kiran-gudida)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@kiran.gudida)
