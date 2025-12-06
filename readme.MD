@@ -13,7 +13,7 @@
 
 ---
 
-I'm a passionate **Senior DevOps & Infrastructure Engineer (Middleware)** with over **13+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, GCP. 
+I'm a passionate **Senior DevOps & Infrastructure Engineer (Middleware)** with over **14+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, GCP. 
 
 I am an experienced Professional with good analytical, problem solving, keen to learn attitude with great experience in **Banking & Finance industry** with domain knowledge of Core Middleware and devops.
 
@@ -26,7 +26,7 @@ My focus is on scalability, observability, and security across AWS and Google cl
 ### 🧰 Tech Stack
 
 - **Cloud**: AWS, Google Cloud  
-- **Middleware**: MQ, Jboss, WebSphere, WebLogic, Nginx, Apache
+- **Middleware**: Jboss, WebSphere, WebLogic, Nginx, Apache and MQ
 - **OS**: Linux, Windows
 - **CI/CD**: GitHub Actions, Jenkins  
 - **SCM**: GitHub, Bitbucket  
